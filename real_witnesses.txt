@@ -1,0 +1,20 @@
+/Users/danielhunter/charliesprojects/clmystery/mystery/crimescene:CLUE: Questioned the barista at the local coffee shop. He said a woman left right before they heard the shots. The name on her latte was Annabel, she had blond spiky hair and a New Zealand accent.
+/Users/danielhunter/charliesprojects/clmystery/mystery/memberships/AAA:Annabel Church
+/Users/danielhunter/charliesprojects/clmystery/mystery/memberships/AAdvantage:Annabel Fuglsang
+/Users/danielhunter/charliesprojects/clmystery/mystery/memberships/AAdvantage:Annabel Church
+/Users/danielhunter/charliesprojects/clmystery/mystery/memberships/Fitness_Galaxy:Oluwasegun Annabel
+/Users/danielhunter/charliesprojects/clmystery/mystery/memberships/Fitness_Galaxy:Annabel Church
+/Users/danielhunter/charliesprojects/clmystery/mystery/memberships/Museum_of_Bash_History:Annabel Church
+/Users/danielhunter/charliesprojects/clmystery/mystery/memberships/Museum_of_Bash_History:Oluwasegun Annabel
+/Users/danielhunter/charliesprojects/clmystery/mystery/memberships/REI:Annabel Church
+/Users/danielhunter/charliesprojects/clmystery/mystery/memberships/Rotary_Club:Annabel Sun
+/Users/danielhunter/charliesprojects/clmystery/mystery/memberships/Rotary_Club:Annabel Fuglsang
+/Users/danielhunter/charliesprojects/clmystery/mystery/memberships/Rotary_Club:Annabel Church
+/Users/danielhunter/charliesprojects/clmystery/mystery/people:Annabel Sun	F	26	Hart Place, line 40
+/Users/danielhunter/charliesprojects/clmystery/mystery/people:Oluwasegun Annabel	M	37	Mattapan Street, line 173
+/Users/danielhunter/charliesprojects/clmystery/mystery/people:Annabel Church	F	38	Buckingham Place, line 179
+/Users/danielhunter/charliesprojects/clmystery/mystery/people:Annabel Fuglsang	M	40	Haley Street, line 176
+/Users/danielhunter/charliesprojects/clmystery/mystery/vehicles:Owner: Oluwasegun Annabel
+/Users/danielhunter/charliesprojects/clmystery/mystery/vehicles:Owner: Annabel Church
+/Users/danielhunter/charliesprojects/clmystery/mystery/vehicles:Owner: Annabel Sun
+/Users/danielhunter/charliesprojects/clmystery/mystery/vehicles:Owner: Annabel Fuglsang
